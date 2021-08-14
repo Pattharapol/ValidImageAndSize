@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Valid_Image_Size/1.0.0": {
+        "runtime": {
+          "Valid_Image_Size.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Valid_Image_Size/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
